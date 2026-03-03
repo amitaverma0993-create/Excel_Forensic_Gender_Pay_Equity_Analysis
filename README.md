@@ -27,7 +27,7 @@ The dataset includes:
 
 - <a href="https://github.com/amitaverma0993-create/Excel_Forensic_Gender_Pay_Equity_Analysis/blob/main/Equality%20Table.xlsx"> Original dataset 
 
-Final calssified output
+- <a href="https://github.com/amitaverma0993-create/Excel_Forensic_Gender_Pay_Equity_Analysis/blob/main/Equality%20Table-Output.xlsx"> Final calssified output
 
 ## Methodology
 
