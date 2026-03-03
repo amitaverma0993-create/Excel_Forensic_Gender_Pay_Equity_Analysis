@@ -14,11 +14,11 @@ My role was to transform analytical output into actionable business intelligence
 
 The dataset includes:
 
-1.**Factory** — Operational location
-2.**Job Role** — Employee designation
-3.**Equality Score** — Range from -100 to +100
-      0 = Perfect equality
-      Higher deviation = Higher inequality risk
+1.**Factory** — Operational location\n
+2.**Job Role** — Employee designation\n
+3.**Equality Score** — Range from -100 to +100\n
+      0 = Perfect equality\n
+      Higher deviation = Higher inequality risk\n
 
 ## Methodology
 
