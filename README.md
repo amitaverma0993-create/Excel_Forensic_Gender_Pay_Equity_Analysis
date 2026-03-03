@@ -14,9 +14,12 @@ My role was to transform analytical output into actionable business intelligence
 
 The dataset includes:
 
-1.**Factory** — Operational location \n
-2.**Job Role** — Employee designation \n
-3.**Equality Score** — Range from -100 to +100 \n
+1.**Factory** — Operational location 
+
+2.**Job Role** — Employee designation 
+
+3.**Equality Score** — Range from -100 to +100 
+
       0 = Perfect equality\n
       Higher deviation = Higher inequality risk\n
 
@@ -24,9 +27,9 @@ The dataset includes:
 
 ### Data Understanding
 
-1.Reviewed compensation equality scoring model
-2.Validated dataset structure
-3.Checked score distribution
+1.Reviewed compensation equality scoring model.
+2.Validated dataset structure.
+3.Checked score distribution.
 
 ### Classification Logic
 
