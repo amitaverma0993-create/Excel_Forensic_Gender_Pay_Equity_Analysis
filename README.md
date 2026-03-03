@@ -28,7 +28,9 @@ The dataset includes:
 ### Data Understanding
 
 1.Reviewed compensation equality scoring model.
+
 2.Validated dataset structure.
+
 3.Checked score distribution.
 
 ### Classification Logic
@@ -40,7 +42,9 @@ Added a new column:
 **Score Range**	              **Classification**
 
 1.-10 to +10	                 Fair
+
 2.-20 to -10 / 10 to 20	           Unfair
+
 3.< -20 or > 20	                 Highly Discriminative
 
 ### Excel Automation
@@ -52,24 +56,35 @@ Used logical functions to automate classification:
 ## KPI’s
 
 1.Converted numerical analytics into decision-ready categories
+
 2.Enabled rapid identification of high-risk departments
+
 3.Improved interpretability for HR and compliance teams
+
 4.Demonstrated forensic analytics workflow
 
 ## Skills Demonstrated
 
 1.Forensic Data Analysis
+
 2.Business Analytics
+
 3.Excel Automation
+
 4.Data Classification
+
 5.Problem Solving
+
 6.Analytical Thinking
+
 7.Governance & Compliance Awareness
 
 ## Tools & Technologies
 
 1.Microsoft Excel
+
 2.Data Classification Logic
+
 3.Forensic Analytics Approach
 
 ## Business Impact
@@ -77,5 +92,7 @@ Used logical functions to automate classification:
 This analysis supports:
 
 1.Ethical compensation review
+
 2.Risk-based investigation prioritization
+
 3.Data-driven HR decision-making
