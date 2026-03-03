@@ -20,8 +20,14 @@ The dataset includes:
 
 3.**Equality Score** — Range from -100 to +100 
 
-      0 = Perfect equality\n
-      Higher deviation = Higher inequality risk\n
+      0 = Perfect equality:
+      Higher deviation = Higher inequality risk
+
+### Dataset
+
+Original dataset 
+
+Final calssified output
 
 ## Methodology
 
