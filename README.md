@@ -13,54 +13,66 @@ My role was to transform analytical output into actionable business intelligence
 ## Dataset Description
 
 The dataset includes:
-•	**Factory** — Operational location
-•	**Job Role** — Employee designation
-•	**Equality Score** — Range from -100 to +100
+
+1.**Factory** — Operational location
+2.**Job Role** — Employee designation
+3.**Equality Score** — Range from -100 to +100
       0 = Perfect equality
       Higher deviation = Higher inequality risk
 
 ## Methodology
 
 ### Data Understanding
-•	Reviewed compensation equality scoring model
-•	Validated dataset structure
-•	Checked score distribution
+
+1.Reviewed compensation equality scoring model
+2.Validated dataset structure
+3.Checked score distribution
 
 ### Classification Logic
+
 Added a new column:
+
 **Equality Class**
+
 **Score Range**	              **Classification**
--10 to +10	                       Fair
--20 to -10 / 10 to 20	             Unfair
-< -20 or > 20	                     Highly Discriminative
+
+1.-10 to +10	                 Fair
+2.-20 to -10 / 10 to 20	           Unfair
+3.< -20 or > 20	                 Highly Discriminative
 
 ### Excel Automation
+
 Used logical functions to automate classification:
+
 =IF(ABS(C2)<=10,"Fair",IF(ABS(C2)<=20,"Unfair","Highly Discriminative"))
 
 ## KPI’s
 
-Converted numerical analytics into decision-ready categories
-Enabled rapid identification of high-risk departments
-Improved interpretability for HR and compliance teams
-Demonstrated forensic analytics workflow
+1.Converted numerical analytics into decision-ready categories
+2.Enabled rapid identification of high-risk departments
+3.Improved interpretability for HR and compliance teams
+4.Demonstrated forensic analytics workflow
 
 ## Skills Demonstrated
-Forensic Data Analysis
-Business Analytics
-Excel Automation
-Data Classification
-Problem Solving
-Analytical Thinking
-Governance & Compliance Awareness
+
+1.Forensic Data Analysis
+2.Business Analytics
+3.Excel Automation
+4.Data Classification
+5.Problem Solving
+6.Analytical Thinking
+7.Governance & Compliance Awareness
 
 ## Tools & Technologies
-Microsoft Excel
-Data Classification Logic
-Forensic Analytics Approach
+
+1.Microsoft Excel
+2.Data Classification Logic
+3.Forensic Analytics Approach
 
 ## Business Impact
+
 This analysis supports:
-Ethical compensation review
-Risk-based investigation prioritization
-Data-driven HR decision-making
+
+1.Ethical compensation review
+2.Risk-based investigation prioritization
+3.Data-driven HR decision-making
